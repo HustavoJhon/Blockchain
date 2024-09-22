@@ -3,6 +3,8 @@
 ![Blockcain](https://img.shields.io/badge/Blockchain.com-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
 ![Javascritp](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 
+[**Event Page**](https://lu.ma/epcy9h7o?tk=A9Jo8a>)
+
 **Duration 1h**
 
 ## Objetive
