@@ -22,14 +22,20 @@ The idea of hacking hour is resolving small challenges to the first experience w
   - [Clarity language](https://book.clarity-lang.org/title-page.html)
   - [Clarinet](https://docs.hiro.so/stacks/clarinet)
 
+![Clarinet](../doc/images/Clarinet.avif)
+
 - **Stacks Blockchain API**
   - [Stacks API by Hiro](https://docs.hiro.so/stacks)
+
+![StacksAPIbyHiro](../doc/images/Stacks_API_by_Hiro.avif)
 
 - **Stacks JS**
   - [Stacks.js](https://docs.hiro.so/stacks/stacks.js)
 
 - **sBTC**
   - [sBTC Docs](https://stacks-network.github.io/sbtc-docs/introduction.html)
+
+![Stacks.js](../doc/images/stacks_js.avif)
 
 ## Challenges by tools
 
@@ -38,9 +44,8 @@ Each tool section will have some challenges, with differences in points depend o
 ### CLARITY
 
 > Setup your local environment: Install clarinet, add plugins to your IDE and run a demo  (1 pts)
-
 <details>
-  <summary>Solution: </summary>
+  <summary>code</summary>
 
 ```bash
 sudo apt install build-essential pkg-config libssl-dev
@@ -62,10 +67,12 @@ clarinet-cli 1.0.2
 <details>
     <summary>Screenshot</summary>
 
-![Imge](./img1.png)
+![Imge](../doc/images/img1.png)
 </details>
 
 > Run smart contract locally with clarinet (3 pts)
+<details>
+  <summary>Code</summary>
 
 ```clarinet
 ;; An on-chain counter that stores a count for each individual
@@ -83,6 +90,8 @@ clarinet-cli 1.0.2
   (ok (map-set counters tx-sender (+ (get-count tx-sender) u1)))
 )
 ```
+
+</details>
 
 > Deploy an smart contract on testnet or mainnet using deployment plans. (5 pts)
 
