@@ -1,6 +1,12 @@
 # Blockchain
 
 ![Blockchain.com](https://img.shields.io/badge/Blockchain.com-121D33.svg?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-Blockchain-blue)
+![NFT](https://img.shields.io/badge/NFTs-Digital%20Assets-green)
+![Smart%20Contracts](https://img.shields.io/badge/Smart%20Contracts-Automated%20Programs-yellow)
+![dApp](https://img.shields.io/badge/dApp-Decentralized%20Apps-red)
+![Cryptography](https://img.shields.io/badge/Cryptography-Security%20Algorithms-purple)
+![Ethereum%20Development](https://img.shields.io/badge/Ethereum%20Development-Tools%20for%20Blockchain-8A2BE2)
 
 ### Blockchain
 
